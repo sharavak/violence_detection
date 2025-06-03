@@ -12,7 +12,7 @@ import numpy as np
 
 
 torch.classes.__path__ = []
-model=YOLO('best1.pt')
+model=YOLO('best.pt')
 st.set_page_config('Violence Detection',page_icon='https://cdn-icons-png.freepik.com/64/18122/18122849.png')
 
 def load_lottieurl(url):
