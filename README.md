@@ -23,7 +23,7 @@
 ---
 
 ## Tools 
-* **Ultralytics YOLOv8** (object detection)
+* **Ultralytics YOLOv11** (object detection)
 * **Roboflow** (dataset annotation & preprocessing)
 
 
